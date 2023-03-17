@@ -1,0 +1,38 @@
+$ git log
+commit 527c8d56ef2c49c712e8461f139ab046504e1b42 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Vedran Deskovski <vedrandeskovski5@gmail.com>
+Date:   Fri Mar 17 20:40:24 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 8b2829cc6b5c5b4259d85cffc2788a889868670b
+Merge: a00e821 fe1f547
+Author: Vedran Deskovski <vedrandeskovski5@gmail.com>
+Date:   Fri Mar 17 21:04:06 2023 +0100
+
+    Merge branch 'bug2'
+
+commit fe1f547a12d72b57edff30185c5804940418a784 (origin/bug2, bug2)
+Author: Vedran Deskovski <vedrandeskovski5@gmail.com>
+Date:   Fri Mar 17 20:38:00 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit a00e821d2c71deafe4e27f5b2a79b65b12b2cb8c (origin/bug1, bug1)
+Author: Vedran Deskovski <vedrandeskovski5@gmail.com>
+Date:   Fri Mar 17 20:34:37 2023 +0100
+
+    Fix wrong loop for reading
+
+commit bd1af842f0450cfe6824f3ab7647ca41b9e899f6
+Author: Vedran Deskovski <vedrandeskovski5@gmail.com>
+Date:   Fri Mar 17 20:31:24 2023 +0100
+
+    Add java class
+
+commit 8d502ffa7518cef325faf2846cdf3bc18d2c5a84
+Author: Vedran Deskovski <vedran.deskovski@poggers.com>
+Date:   Fri Mar 17 20:02:21 2023 +0100
+
+    Initial commit
+
